@@ -1,0 +1,6 @@
+{
+  "name": "💬　Auto Comment",
+  "description": "Automatically comment issues or PRs on events triggered",
+  "iconName": "auto-comment",
+  "filePatterns": ["package.json$"]
+}
